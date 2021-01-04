@@ -7,7 +7,8 @@ Continuously deploy updates a'la the article at [How to Use Github Actions to De
 ## Initial Goals
 
 1. auth with AWS Cognito
-2. read from Cognito
+2. read metadata from Cognito
+    1. display formatted metadata
 3. cache results in S3
 
 ## Next Goals
